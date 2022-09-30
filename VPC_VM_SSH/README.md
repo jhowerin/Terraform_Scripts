@@ -5,5 +5,5 @@ Terraform Script to create the following
 4) ICMP ping 
 5) HTTP capable
 
-All variables in variables.tf
+All variables in variables.tf<br>
 Uses the AWS "default" profile for API access
